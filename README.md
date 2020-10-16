@@ -11,7 +11,7 @@ Stack:
 * APACHE
 * LINUX/UBUNTU
 * Terraform to automate infrastructure
-* Jenkins for CI
+* Jenkins for CI.
 
 This is wordpresss application..
 
