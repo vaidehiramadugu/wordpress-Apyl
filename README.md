@@ -40,3 +40,6 @@ Server credentails:
 =======
 cp wordpress/wp-config-sample.php wordpress/wp-config.php
 ```
+
+```
+```
