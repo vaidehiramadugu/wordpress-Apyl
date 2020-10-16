@@ -7,7 +7,7 @@
 Stack:
 
 * PHP
-* MYSQL
+* MYSQL (RDS)
 * APACHE
 * LINUX/UBUNTU
 * Terraform to automate infrastructure
@@ -26,5 +26,14 @@ tar -xzf latest.tar.gz"
 ```
 
 ```
-cp wordpress/wp-config-sample.php wordpress/wp-config.php
+cp wordpress
 ```
+
+Wordpress login credentails:
+
+
+Wordpress DB credenails:
+
+
+Server credentails:
+
