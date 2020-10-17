@@ -13,7 +13,7 @@ Stack:
 * Terraform to automate infrastructure
 * Jenkins for CI.
 
-This is wordpresss application...
+This is wordpresss application...........
 
 
 #Setup:
